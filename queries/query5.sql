@@ -1,0 +1,1 @@
+test.Item.find( {User : {Rating :  {$gt: 1000} } } ).count()

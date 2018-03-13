@@ -1,0 +1,1 @@
+test.Item.find( {Category : {$eq: 4} } ).count()

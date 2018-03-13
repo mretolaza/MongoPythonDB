@@ -1,0 +1,1 @@
+test.Item.find( {Category : {Currently : {$gte : 100}}} ).count()
